@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Amitesh Mihsra</h1>
 <h3 align="center">A sophomore at National Institute of Technology Patna</h3>
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp11657064.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitesh121&label=Profile%20views&color=0e75b6&style=flat" alt="amitesh121" /> </p>
 
